@@ -1,0 +1,46 @@
+{
+  "name": "EvaPortfolio",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/portfolio/eva.png",
+      "sizes": "36x36",
+      "type": "image/x-icon",
+      "density": "0.75"
+    },
+    {
+      "src": "/portfolio/eva.png",
+      "sizes": "48x48",
+      "type": "image/x-icon",
+      "density": "1.0"
+    },
+    {
+      "src": "/portfolio/eva.png",
+      "sizes": "72x72",
+      "type": "image/x-icon",
+      "density": "1.5"
+    },
+    {
+      "src": "/portfolio/eva.png",
+      "sizes": "96x96",
+      "type": "image/x-icon",
+      "density": "2.0"
+    },
+    {
+      "src": "/portfolio/eva.png",
+      "sizes": "144x144",
+      "type": "image/x-icon",
+      "density": "3.0"
+    },
+    {
+      "src": "/portfolio/eva.png",
+      "sizes": "192x192",
+      "type": "image/x-icon",
+      "density": "4.0"
+    }
+  ],
+  "short_name": "EvaPortfolio",
+  "start_url": ".",
+  "theme_color": "#000000"
+}
